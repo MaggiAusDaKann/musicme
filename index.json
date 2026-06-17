@@ -72,6 +72,18 @@
             "name": "shire_hardstyle",
             "author": "shire",
             "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/shire_hardstyle.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "kim",
+            "author": "kim",
+            "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/kim.dfpwm"
+        },
+         {
+            "type": "song",
+            "name": "ein_bisschen_schiessen",
+            "author": "bw",
+            "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/ein_bisschen_schiessen.dfpwm"
         }
     ]
 }
