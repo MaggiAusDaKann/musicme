@@ -1,7 +1,8 @@
 ## Install
 
-To install, run
+To install original, run
 
 ```shell
-wget run https://raw.githubusercontent.com/MaggiAusDaKann/musicme/master/install.lua
+wget run https://raw.githubusercontent.com/JaredWogan/musicme/master/install.lua
 ```
+
