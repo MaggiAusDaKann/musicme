@@ -46,7 +46,7 @@ if not index then error("The index is malformed.", 0) end
 
 -- Check for updates
 local function update()
-    shell.run("wget run https://raw.githubusercontent.com/JaredWogan/musicme/master/install.lua")
+    shell.run("wget run https://raw.githubusercontent.com/MaggiAusDaKann/musicme/master/install.lua")
 end
 if v(version) < v(index.latestVersion) and autoUpdates then
     error("Client outdated... Running Updates", 0)
