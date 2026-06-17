@@ -27,12 +27,6 @@
         },
         {
             "type": "song",
-            "name": "100 Digits of Pi",
-            "author": "YouTube",
-            "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/PiSong.dfpwm"
-        },
-        {
-            "type": "song",
             "name": "Cat's in the Cradle",
             "author": "Harry Chapin",
             "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/CatCradle.dfpwm"
