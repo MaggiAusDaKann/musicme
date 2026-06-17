@@ -54,6 +54,13 @@
             "name": "Haesschen",
             "author": "Hase",
             "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/Haesschen.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Hobbit",
+            "author": "hobbit",
+            "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/Hobbit.dfpwm"
         }
+        
     ]
 }
