@@ -66,13 +66,6 @@
             "name": "sexy_gandalf",
             "author": "gandalf",
             "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/sexy_gandalf.dfpwm"
-        },
-        {
-            "type": "song",
-            "name": "shire_hardstyle",
-            "author": "shire",
-            "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/shire_hardstyle.dfpwm"
-        }
-        
+        }, 
     ]
 }
