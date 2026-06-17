@@ -48,6 +48,12 @@
             "name": "Deutschland",
             "author": "Rammstein",
             "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/Deutschland.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Haesschenparty",
+            "author": "Hase",
+            "file": "https://github.com/MaggiAusDaKann/musicme/raw/refs/heads/master/Processed/Haesschen.dfpwm"
         }
     ]
 }
