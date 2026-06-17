@@ -10,7 +10,7 @@ if not dfpwm then error("dfpwm wasn't found") end
 
 -- Options
 local version = "1.0.0"
-local repo = "https://raw.githubusercontent.com/JaredWogan/musicme/master/index.json"
+local repo = "https://raw.githubusercontent.com/MaggiAusDaKann/musicme/master/index.json"
 local indexURL = repo .. "?cb=" .. os.epoch("utc")
 
 -- Settings
